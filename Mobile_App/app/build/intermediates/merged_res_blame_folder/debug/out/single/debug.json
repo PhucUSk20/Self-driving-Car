@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\xml_network_security_config.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\menu_main.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\layout_activity_jetracer_control.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\layout\\activity_jetracer_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\layout_fragment_generate_qr.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\layout\\fragment_generate_qr.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\drawable_screen.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\drawable\\screen.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-hdpi_user_icon.png.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-hdpi\\user_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\layout_toolbar_layout.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\layout\\toolbar_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\layout_activity_live_camera_jetracer.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\layout\\activity_live_camera_jetracer.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.store.faskcamera.app-merged_res-42:/layout_activity_main.xml.flat",
+        "source": "com.store.faskcamera.app-main-44:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-merged_res-42:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\PC\\.gradle\\daemon\\7.5\\com.store.faskcamera.app-main-44:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]

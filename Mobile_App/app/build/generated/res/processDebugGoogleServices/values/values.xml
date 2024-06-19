@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">307165667355</string>
+    <string name="google_api_key" translatable="false">AIzaSyDq3krwX_ya2Zg_JomzbPvchRW-FkcLHzc</string>
+    <string name="google_app_id" translatable="false">1:307165667355:android:226f4558a41e06b54c58be</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDq3krwX_ya2Zg_JomzbPvchRW-FkcLHzc</string>
+    <string name="google_storage_bucket" translatable="false">jetracernotification.appspot.com</string>
+    <string name="project_id" translatable="false">jetracernotification</string>
+</resources>

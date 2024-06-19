@@ -1,0 +1,13 @@
+com.dvinfosys
+drawable ic_add
+drawable ic_remove
+drawable nav_min
+id icon_menu
+id is_new
+id ivGroupIndicator
+id layout_group
+id lblListHeader
+id lblListItem
+layout list_group
+layout list_item
+string app_name
