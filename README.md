@@ -1,56 +1,146 @@
-# SMART ROBOT WAREHOUSE
-An autonomous robot for warehouse automation, integrating deep learning, computer vision, and IoT. The system enables route setup through QR Code scanning and MQTT communication, followed by autonomous navigation and area recognition. For obstacle avoidance, the robot automatically stops when detecting obstacles and triggers FCM notifications, while also being trained to maneuver around them. Remote monitoring and control are facilitated via a Flask-based website and mobile app.
-![](https://i.imgur.com/XOSQKXC.png)
-1. Hardware
-1.1 Autonomous Robot
- PCB
-![](https://i.imgur.com/F6ePXdl.png)
- Schematic diagram
-![](https://i.imgur.com/EGW568y.png)
- Robot hardware connection overview diagram
-![](https://i.imgur.com/qbLLM4c.png)
- Complete Autonomous Robot Hardware
- ![](https://i.imgur.com/oHWf4ct.png)
- ![](https://i.imgur.com/QmeBiVl.png)
-1.2 Dashboard
-PCB
-![](https://i.imgur.com/c9xbmz0.png)
-Schematic diagram
-![](https://i.imgur.com/GvETQBo.png)
-Sơ đồ phần cứng bảng điều khiển
-![](https://i.imgur.com/4PNGYPV.png)
-Hoàn thiện phần cứng
-![](https://i.imgur.com/Buthz7i.png)
-2. Overview of Robot operation steps
-![](https://i.imgur.com/Hf5HlNz.png)
-2.1 Route setup subsystem via QR code
-![](https://i.imgur.com/cyjy5Da.png)
-2.2 Thiết lập tuyến đường thông qua bảng điều khiển nhờ vào giao thức MQTT
-![](https://i.imgur.com/G4Yi2zf.png)
-2.3 Thuật toán lái xe tự động - ResNet18
-![](https://i.imgur.com/JwtFdge.png)
-![](https://i.imgur.com/cGcUeYb.png)
-![](https://i.imgur.com/slyKwQ8.png)
-![](https://i.imgur.com/RQ3R6rP.png)
-2.4 Thuật toán nhận diện khu vực - AlexNet
-![](https://i.imgur.com/QjqvLu8.png)
-![](https://i.imgur.com/ZYnyfF5.png)
-![](https://i.imgur.com/AuU2cnA.png)
-![](https://i.imgur.com/jpT07Ns.png)
-2.5 Hệ thống cảm biến
-![](https://i.imgur.com/tRw0C3v.png)
-2.6 Thuật toán điều hướng
-![](https://i.imgur.com/KmiK5Lu.png)
-![](https://i.imgur.com/psggkWD.png)
-2.7 Giao diện Mobile App
-Socket Server
-![](https://i.imgur.com/58Nn9hQ.png)
-![](https://i.imgur.com/vPoqAms.png)
-Flask Server
-![](https://i.imgur.com/eEgaKoW.png)
-![](https://i.imgur.com/dWUsoJd.png)
-Firebase FCM
-![](https://i.imgur.com/Aezp466.png)
-UI Mobile App
-![](https://i.imgur.com/8PXhBDl.png)
+# 🤖 SMART ROBOT WAREHOUSE
+
+An autonomous robot system designed for warehouse automation, integrating AI, computer vision, and IoT technologies. The robot enables dynamic route setup via QR Code and MQTT, performs autonomous navigation with deep learning, recognizes different warehouse zones, and supports real-time monitoring through a mobile app and Flask-based web dashboard. Obstacle detection is integrated with automatic stop and Firebase FCM alerts.
+
+---
+
+## 📌 Table of Contents
+
+- [1. Hardware](#1-hardware)
+  - [1.1 Autonomous Robot](#11-autonomous-robot)
+  - [1.2 Control Dashboard](#12-control-dashboard)
+- [2. Robot Operation Overview](#2-robot-operation-overview)
+  - [2.1 Route Setup via QR Code](#21-route-setup-via-qr-code)
+  - [2.2 MQTT-Based Route Control](#22-mqtt-based-route-control)
+  - [2.3 Autonomous Driving (ResNet18)](#23-autonomous-driving-resnet18)
+  - [2.4 Area Recognition (AlexNet)](#24-area-recognition-alexnet)
+  - [2.5 Sensor System](#25-sensor-system)
+  - [2.6 Navigation Algorithm](#26-navigation-algorithm)
+  - [2.7 Mobile Application](#27-mobile-application)
+- [3. Overview of the Entire System](#3-overview-of-the-entire-system)
+---
+
+## 1. Hardware
+
+### 1.1 Autonomous Robot
+
+#### 📌 PCB Layout
+![Robot PCB](https://i.imgur.com/F6ePXdl.png)
+
+#### 📌 Schematic Diagram
+![Schematic](https://i.imgur.com/EGW568y.png)
+
+#### 📌 Connection Overview
+![Connection Diagram](https://i.imgur.com/qbLLM4c.png)
+
+#### 📌 Completed Robot Hardware
+![Robot](https://i.imgur.com/oHWf4ct.png)  
+![Robot 2](https://i.imgur.com/QmeBiVl.png)
+
+---
+
+### 1.2 Control Dashboard
+
+#### 📌 PCB Layout
+![Dashboard PCB](https://i.imgur.com/c9xbmz0.png)
+
+#### 📌 Schematic Diagram
+![Dashboard Schematic](https://i.imgur.com/GvETQBo.png)
+
+#### 📌 Hardware Overview
+![Dashboard Diagram](https://i.imgur.com/4PNGYPV.png)
+
+#### 📌 Completed Dashboard
+![Dashboard](https://i.imgur.com/Buthz7i.png)
+
+---
+
+## 2. Robot Operation Overview
+
+### 2.1 Route Setup via QR Code
+
+![QR Setup](https://i.imgur.com/cyjy5Da.png)
+
+---
+
+### 2.2 MQTT-Based Route Control
+
+![MQTT Control](https://i.imgur.com/G4Yi2zf.png)
+
+---
+
+### 2.3 Autonomous Driving (ResNet18)
+
+#### 📌 Model Training & Implementation
+
+![Driving 1](https://i.imgur.com/JwtFdge.png)  
+![Driving 2](https://i.imgur.com/cGcUeYb.png)  
+![Driving 3](https://i.imgur.com/slyKwQ8.png)  
+![Driving 4](https://i.imgur.com/RQ3R6rP.png)
+
+---
+
+### 2.4 Area Recognition (AlexNet)
+
+![Area 1](https://i.imgur.com/QjqvLu8.png)  
+![Area 2](https://i.imgur.com/ZYnyfF5.png)  
+![Area 3](https://i.imgur.com/AuU2cnA.png)  
+![Area 4](https://i.imgur.com/jpT07Ns.png)
+
+---
+
+### 2.5 Sensor System
+
+![Sensor](https://i.imgur.com/tRw0C3v.png)
+
+---
+
+### 2.6 Navigation Algorithm
+
+![Nav 1](https://i.imgur.com/KmiK5Lu.png)  
+![Nav 2](https://i.imgur.com/psggkWD.png)
+
+---
+
+### 2.7 Mobile Application
+
+#### 📌 Socket Server
+![Socket 1](https://i.imgur.com/58Nn9hQ.png)  
+![Socket 2](https://i.imgur.com/vPoqAms.png)
+
+#### 📌 Flask Backend
+![Flask 1](https://i.imgur.com/eEgaKoW.png)  
+![Flask 2](https://i.imgur.com/dWUsoJd.png)
+
+#### 📌 Firebase FCM Notifications
+![FCM](https://i.imgur.com/Aezp466.png)
+
+#### 📌 Mobile App UI
+![UI](https://i.imgur.com/8PXhBDl.png)
+
+---
+
+## 3. Overview of the entire system
+![Overview System](https://i.imgur.com/XOSQKXC.png)
+
+## ✅ Technologies Used
+
+- **AI Models**: ResNet18 (Autonomous Driving), AlexNet (Area Recognition)
+- **Microcontrollers**: Jetson Nano, ESP32, ESP8266
+- **Sensors**: IMU, HC-SR04, MAX30102
+- **Communication**: MQTT, Bluetooth, Firebase FCM, Socket
+- **Backend**: Flask Server, MQTT Broker
+- **Mobile App**: Android (Java), MIT App Inventor
+- **Others**: Python, C, Deep Learning, OpenCV
+
+---
+
+## 🙌 Credits
+
+Developed as a final year thesis at **Ho Chi Minh City University of Science (HCMUS)**  
+**Team Size**: 2
+**Role**: Full-stack Developer, System Designer  
+**Duration**: Dec 2023 – Sept 2024
+
+---
 
