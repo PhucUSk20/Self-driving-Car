@@ -123,6 +123,21 @@ An autonomous robot system designed for warehouse automation, integrating AI, co
 ## 3. Overview of the entire system
 ![Overview System](https://i.imgur.com/XOSQKXC.png)
 
+## 4. 🎬 Demo
+
+📺 **Project Demonstration Videos**  
+Experience the full operation of the Smart Robot Warehouse system, including autonomous navigation, QR-based routing, area recognition, and real-time monitoring:
+
+### 🔗 [Video 1: System Overview & Autonomous Robot Operation](https://www.youtube.com/watch?v=spMlLdgUSRc)
+
+[![Video 1](https://img.youtube.com/vi/spMlLdgUSRc/0.jpg)](https://www.youtube.com/watch?v=spMlLdgUSRc)
+
+### 🔗 [Video 2: Workflow & Dashboard Command Execution](https://www.youtube.com/watch?v=_WNLldl1OI0)
+
+[![Video 2](https://img.youtube.com/vi/_WNLldl1OI0/0.jpg)](https://www.youtube.com/watch?v=_WNLldl1OI0)
+
+> 💡 Click on any image or link above to watch the robot in action — from model training to full system deployment.
+
 ## ✅ Technologies Used
 
 - **AI Models**: ResNet18 (Autonomous Driving), AlexNet (Area Recognition)
